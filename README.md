@@ -58,8 +58,10 @@ Create local folders and run with volume bindings:
 
 🖼 Screenshot
 -------------
-
-Open the dashboard and capture a screenshot using **Snipping Tool** or **Win + Shift + S**.
+<img src="Screenshots/1.png">
+<img src="Screenshots/2.png">
+<img src="Screenshots/3.png">
+<img src="Screenshots/4.png">
 
 🎯 Outcome
 ----------
